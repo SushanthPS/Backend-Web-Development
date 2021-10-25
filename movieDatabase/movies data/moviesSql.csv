@@ -1,0 +1,501 @@
+id,movie_name,movie_genre,production_year,budget
+1,"Feast at Midnight, A",Children|Comedy|Drama,1991,15451
+2,Mutiny on the Bounty,Adventure|Drama,1993,9614
+3,"Church, The (Chiesa, La)",Drama|Fantasy|Horror,1993,19674
+4,Electroma,Drama|Sci-Fi,2000,12400
+5,Doctor Who: The Time of the Doctor,(no genres listed),1992,14017
+6,Soloalbum,Comedy|Romance,2013,15858
+7,Recollections of the Yellow House (Recordações da Casa Amarela),Comedy|Drama,2009,10613
+8,"Dark House, The (Dom zly)",Crime|Drama|Thriller,2010,16992
+9,Yossi (Ha-Sippur Shel Yossi),Drama|Romance,2006,10139
+10,Birdemic: Shock and Terror,Romance|Thriller,2009,15648
+11,"Substance: Albert Hofmann's LSD, The",Documentary,2006,19379
+12,"Same Time, Next Year",Comedy|Drama|Romance,2017,10364
+13,9to5: Days in Porn (a.k.a. 9 to 5: Days in Porn),Documentary,1998,15551
+14,"Single Man, A",Drama,2002,16935
+15,White Reindeer,Comedy|Drama,1991,16949
+16,"Blood, Sweat + Vinyl: DIY in the 21st Century",Documentary,1990,17294
+17,"Pleasure of Being Robbed, The",Comedy,2001,16192
+18,41,Documentary,1998,16673
+19,Pride and Prejudice,Comedy|Drama|Romance,2008,12400
+20,Bad Girls Go To Hell,Drama,2007,15288
+21,"Bridesmaid, The (Demoiselle d'honneur, La)",Drama|Romance|Thriller,1997,11788
+22,Frozen River,Drama,1996,10801
+23,First Knight,Action|Drama|Romance,2013,14471
+24,Harmagedon,Action|Drama,2010,10027
+25,"Greatest Show on Earth, The",Drama,2018,18532
+26,Dark Dungeons,Drama|Fantasy,1996,17933
+27,"Return of the King, The",Adventure|Animation|Fantasy|Musical,1990,17290
+28,Swamp Water,Drama,2006,14494
+29,"Twilight Saga: New Moon, The",Drama|Fantasy|Horror|Romance|Thriller,2008,12308
+30,Faces of Death 3,Documentary|Horror,2011,17958
+31,Rabbit-Proof Fence,Adventure|Drama,1997,12236
+32,Knights,Action|Adventure|Sci-Fi,2019,17782
+33,Bull Durham,Comedy|Drama|Romance,2012,18171
+34,Coal Miner's Daughter,Drama,2007,12688
+35,Big Eden,Drama|Romance,2018,19830
+36,Beasts of the Southern Wild,Drama|Fantasy,2018,12214
+37,Welcome to the Roses (Bienvenue chez les Rozes),Comedy,2008,16922
+38,House IV,Fantasy|Horror|Thriller,2018,18598
+39,Wing Chun,Action|Comedy|Drama|Romance,2006,17830
+40,Photographing Fairies,Drama|Fantasy|Mystery,2012,19260
+41,"Night, The (Notte, La)",Drama,2018,18369
+42,"Private Life of Henry VIII, The",Comedy|Drama,1998,18500
+43,Leprechaun,Comedy|Horror,2004,16026
+44,"Dry White Season, A",Drama|Thriller,1993,9400
+45,"Anarchist Cookbook, The",Comedy|Romance,1999,9712
+46,"Yank in the R.A.F., A",Action|Adventure|Drama|Romance|War,1993,12036
+47,"Sound of the Mountain (Thunder of the Mountain, The) (Yama no oto)",Drama,2002,15159
+48,Mac & Devin Go to High School,Comedy,1991,12602
+49,Main Street,Drama,1991,13005
+50,Vigilante,Action|Crime|Drama,1997,18230
+51,"Human Family Tree, The",Documentary,2001,17795
+52,Up in the Air,Drama|Romance,1998,17670
+53,"Postman, The",Action|Adventure|Drama|Sci-Fi,1999,17390
+54,High School High,Comedy,1997,16337
+55,One Flew Over the Cuckoo's Nest,Drama,2005,10361
+56,Black Cloud,Drama,2001,16162
+57,The Smiling Ghost,Comedy|Mystery,2015,13136
+58,Mademoiselle,Drama,1993,11209
+59,Kein Bund für's Leben,Comedy,2005,11185
+60,Hitman,Action|Crime|Thriller,2013,13318
+61,The Madagascar Penguins in a Christmas Caper,Animation|Comedy,2010,12789
+62,Hit the Bank (Vabank),Comedy|Crime,2017,19723
+63,Down and Out with the Dolls,Comedy,2004,17169
+64,Hot Lead and Cold Feet,Action|Comedy|Western,2006,17471
+65,Sylvia,Drama|Romance,2010,10410
+66,American Heist,Action,2015,16414
+67,Confessor Caressor,(no genres listed),2004,13901
+68,Cinderella Man,Drama|Romance,2013,13058
+69,Christine,Horror,2018,13927
+70,"Snowman, The",Animation|Children|Musical,2006,11611
+71,Snow Falling on Cedars,Drama,2009,9678
+72,Next of Kin,Action|Crime|Thriller,2001,15824
+73,Standby,Comedy|Romance,2002,15864
+74,Obsessed,Crime|Drama|Thriller,2019,18213
+75,Tonight and Every Night,Musical,2008,12772
+76,Thesis on a Homicide,Crime|Mystery|Thriller,2015,19981
+77,Roberto Succo,Crime|Drama,2012,15950
+78,Black Widow,Drama|Mystery,2014,9778
+79,Le Mans,Action|Adventure,1998,18413
+80,Hello Down There,Comedy|Sci-Fi,2002,16066
+81,Jesse Stone: Death in Paradise,Crime|Drama|Mystery,2004,14229
+82,"The Missing Piece: Mona Lisa, Her Thief, the True Story",Crime|Documentary|Mystery,2002,13203
+83,"Scarlet and the Black, The",Action|Drama|War,2008,11189
+84,Blacula,Horror,2011,18512
+85,Star Trek,Action|Adventure|Sci-Fi|IMAX,2009,17693
+86,Street People,Action|Thriller,1998,15230
+87,"Prince of Central Park, The",Action|Adventure|Drama,2004,10306
+88,Man of the House,Comedy,2019,14298
+89,Rich and Famous,Drama,1995,10223
+90,"Inbetweeners Movie, The",Adventure|Comedy,2019,12675
+91,Android,Sci-Fi,2014,17445
+92,"Seven Year Itch, The",Comedy,2003,14473
+93,Funny Games,Drama|Horror|Thriller,2012,16876
+94,Winchester '73,Western,1990,13759
+95,Joe the King,Crime|Drama,2017,9006
+96,Inside Llewyn Davis,Drama,1992,10933
+97,Brutal Relax,Action|Comedy,2020,10733
+98,"Devils, The",Drama,1997,9330
+99,Gladiator,Action|Drama,1993,10574
+100,"Seduction of Joe Tynan, The",Drama,2009,18909
+101,Hallam Foe (Mister Foe),Drama|Romance,1991,18417
+102,Beer,Comedy,2015,10928
+103,Cream Lemon (Kurîmu remon),Comedy|Drama,2010,12736
+104,Japanese Summer: Double Suicide (Muri shinjû: Nihon no natsu),Crime|Drama,2000,16652
+105,The Lazarus Effect,Horror|Thriller,2005,18909
+106,Friday Night Lights,Action|Drama,1990,14376
+107,Space Amoeba (Yog: Monster from Space),Action|Sci-Fi,1995,19149
+108,Trapped in the Closet: Chapters 1-12,Drama|Musical,2006,15662
+109,The Anomaly,Action|Sci-Fi|Thriller,2017,17173
+110,Ripe,Drama,2003,14929
+111,"Story of Qiu Ju, The (Qiu Ju da guan si)",Comedy|Drama,2019,14957
+112,Games of Love and Chance (L'esquive),Drama|Romance,2011,9558
+113,"Deadly Trap, The (La maison sous les arbres)",Drama|Mystery,2014,18818
+114,Sgt. Kabukiman N.Y.P.D.,Action|Comedy|Fantasy,2018,12798
+115,They Made Me a Criminal (I Became a Criminal) (They Made Me a Fugitive),Crime|Drama,1990,13814
+116,Woman Thou Art Loosed,Drama,1996,12410
+117,Nowhere to Hide (Injeong sajeong bol geot eobtda),Action|Comedy|Crime|Thriller,2015,15644
+118,Bleak Night,Drama,1991,17948
+119,Forbidden Games (Jeux interdits),Drama|War,1994,17674
+120,"Story of Us, The",Comedy|Drama,2007,12991
+121,Buddy Boy,Drama|Thriller,1999,10227
+122,Firestarter,Horror|Thriller,2011,12214
+123,Kamikaze Girls (Shimotsuma monogatari),Comedy,2007,13106
+124,Perfectly Normal,Comedy,2019,10012
+125,Sidestreet,Documentary,1990,15469
+126,Guelwaar,Drama,1992,18650
+127,Love Without Pity,Comedy|Romance,2020,9869
+128,Science and Islam,Documentary,2006,10449
+129,Enchanted April,Drama|Romance,2012,10131
+130,Moving the Mountain,Documentary,2019,10145
+131,"Code, The",Documentary,2012,19015
+132,Her,Drama|Romance|Sci-Fi,2001,15191
+133,Bongwater,Comedy|Romance,1993,18852
+134,Shutter,Horror|Mystery|Thriller,2004,14257
+135,Faster,Action|Crime|Drama,2009,9653
+136,Gotti,Crime|Drama,1995,19327
+137,Silent Witness (Do Not Disturb),Action|Comedy|Thriller,1998,15942
+138,Come to the Stable,Drama,2016,9285
+139,Platform (Zhantai),Drama,1993,11517
+140,Breaking Away,Comedy|Drama,2006,14616
+141,Flashpoint,Action|Adventure|Crime|Mystery|Thriller,1999,13112
+142,Table 7,Comedy|Drama,2009,11036
+143,"Planet of the Future, The",Action|Adventure|Sci-Fi,2007,12217
+144,Maximum Risk,Action|Adventure|Thriller,1993,9584
+145,Gamera vs. Viras ,Action|Sci-Fi,2012,12414
+146,Buffy the Vampire Slayer,Action|Comedy|Horror,2009,15326
+147,Men of War,Action|Drama,2003,18224
+148,That Cold Day in the Park,Drama,2017,11152
+149,If These Walls Could Talk,Drama,2008,12733
+150,Mississippi Burning,Crime|Drama|Thriller,1997,11842
+151,"Girl Said No, The",Comedy|Romance,2005,11732
+152,Human Trafficking,Crime|Drama|Mystery|Thriller,1994,16606
+153,"Phantom Tollbooth, The",Adventure|Animation|Children|Fantasy,1999,11177
+154,"Swedish Love Story, A (Kärlekshistoria, En)",Drama|Romance,2020,16070
+155,Great World of Sound,Comedy,2008,13057
+156,Such a Long Journey,Drama|War,1996,15865
+157,City Slickers,Comedy|Western,1992,11305
+158,Winds of the Wasteland,Western,2016,14079
+159,"Come Back to the Five and Dime, Jimmy Dean, Jimmy Dean",Drama,2010,17995
+160,Straw Dogs,Drama|Thriller,1992,14869
+161,Saratoga,Comedy|Drama|Romance,2012,15367
+162,Venus Beauty Institute (Vénus beauté),Comedy|Drama|Romance,1998,14022
+163,Blackballed: The Bobby Dukes Story,Comedy,1995,12867
+164,Franz Kafka's a Country Doctor,Animation|Drama,2019,16608
+165,Friday the 13th Part 3: 3D,Horror,2003,9880
+166,Hard Sun,Drama|Romance,2012,18356
+167,Catfish,Documentary|Mystery,2007,13177
+168,Between the Folds,Documentary,2020,19660
+169,Mulan,Action|Adventure|Drama|Romance,1998,15076
+170,"Last Seven, The",Horror|Mystery|Thriller,2005,11168
+171,In the Name of the King: A Dungeon Siege Tale,Action|Adventure|Fantasy,1992,10818
+172,Purple Rain,Drama|Musical,1999,14017
+173,Nazareno Cruz and the Wolf,(no genres listed),2004,16420
+174,"Werewolf, The",Horror|Sci-Fi,2004,11018
+175,Emperor of the North (Emperor of the North Pole),Action|Drama|Thriller,2003,11534
+176,Maid in Sweden,Drama,2009,13095
+177,Trixie,Comedy|Crime|Mystery,1993,19737
+178,Pajama Party,Comedy,2014,12636
+179,My Night At Maud's (Ma Nuit Chez Maud),Comedy|Drama|Romance,2012,14068
+180,Giuseppe Makes a Movie,Documentary,2015,12565
+181,"Pied Piper, The (Pied Piper of Hamelin, The)",Children|Drama|Fantasy|Musical,2015,13354
+182,Camp de Thiaroye,Drama|War,2017,13041
+183,Year of the Dragon,Action|Crime|Drama,1999,12692
+184,Once Bitten,Comedy|Horror,2004,9439
+185,Sinister,Horror|Thriller,1991,13063
+186,"Downfall (Untergang, Der)",Drama|War,2002,10501
+187,"Return to Homs, The",Documentary,1990,17997
+188,Command Decision,Drama|War,1990,13261
+189,Body of Lies,Action|Drama|Thriller,2019,12591
+190,Woman Thou Art Loosed,Drama,2017,16858
+191,Charade,Comedy|Crime|Mystery|Romance|Thriller,2010,12890
+192,Intact (Intacto),Thriller,1995,17642
+193,That Forsyte Woman,Drama|Romance,2009,16931
+194,"Greatest, The",Drama,1998,18116
+195,Rebel Without a Cause,Drama,1998,12016
+196,Liverpool,Drama,1990,9736
+197,"Three Musketeers, The",Action|Adventure,2018,14110
+198,Dialogues with Solzhenitsyn (Uzel),Documentary,1995,18223
+199,"Entity, The",Horror,2018,15080
+200,Little Dorrit,Drama|Romance,1992,19648
+201,"Children of Heaven, The (Bacheha-Ye Aseman)",Comedy|Drama,1990,9385
+202,Blood and Wine (Blood & Wine),Crime|Drama|Thriller,2015,15679
+203,Police Story 2 (Ging chaat goo si juk jaap),Action|Comedy|Crime|Thriller,2004,10979
+204,In the Company of Men,Comedy|Drama,2007,19458
+205,Handsome Harry,Crime|Drama,1996,10098
+206,Double Wedding,Comedy|Romance,1994,15414
+207,Party Girl,Comedy,1994,10133
+208,City Hunter (Sing si lip yan),Action|Comedy|Romance,2010,13175
+209,Loulou,Drama|Romance,2004,9062
+210,Bad Company,Western,2007,16044
+211,Dry Season (Daratt),Drama,2002,13973
+212,Gold Raiders,Comedy|Western,2010,12131
+213,You Ain't Seen Nothin' Yet (Vous n'avez encore rien vu),Drama,2016,16257
+214,Robin and Marian,Adventure|Drama|Romance,1997,10376
+215,Cheyenne Autumn,Western,2019,15005
+216,How Stella Got Her Groove Back,Drama|Romance,2005,18344
+217,Asterix and the Gauls (Astérix le Gaulois),Action|Adventure|Animation|Children|Comedy,2010,17279
+218,"Corridor, The",Horror|Thriller,2014,13815
+219,Romy and Michele: In the Beginning,Comedy,2011,18769
+220,"Sarah, Plain and Tall",Children|Drama,2008,11831
+221,Master of the Flying Guillotine (Du bi quan wang da po xue di zi),Action,2002,9702
+222,Rosario Tijeras,Crime|Drama|Romance,2000,11529
+223,"Scarecrow, The",Comedy,2018,17768
+224,Cropsey,Documentary|Horror,2006,15799
+225,Wild America,Adventure|Children,2020,19754
+226,Tremors II: Aftershocks,Comedy|Horror|Sci-Fi,2012,15174
+227,Grass: A Nation's Battle for Life,Documentary,1999,9404
+228,"House of Exorcism, The (a.k.a. Lisa and the Devil) (Casa dell'esorcismo, La)",Horror,1998,12974
+229,"Awful Truth, The",Comedy|Romance,2019,10007
+230,Bells of Capistrano,Western,2015,15818
+231,Radio Rebel,Drama,2020,14775
+232,"Happening, The",Drama|Sci-Fi|Thriller,2008,11778
+233,The Kick,Action,1995,12315
+234,The Gardener,(no genres listed),1996,18204
+235,Bobby Fischer Against the World,Documentary,1990,13578
+236,Bulldog Drummond Escapes,Adventure|Mystery|Romance|Thriller,1993,10068
+237,Kelly's Heroes,Action|Comedy|War,2002,9870
+238,Vali,Action|Drama,1996,10741
+239,"First Wives Club, The",Comedy,2018,11630
+240,Ain't Them Bodies Saints,Drama,2018,17993
+241,Falling in Love,Drama|Romance,2001,16532
+242,Fun Size,Comedy,2003,16941
+243,Ned Kelly,Drama,2004,10604
+244,Christmas in August (Palwolui Christmas),Drama|Romance,1996,14113
+245,"Woman of Paris, A",Drama,1995,17138
+246,The Sword and the Rose,Adventure|Children|Drama,2020,11784
+247,"Letter to Momo, A (Momo e no tegami)",Animation|Drama,1999,17659
+248,Color Me Blood Red,Horror,2008,16210
+249,Romance on the High Seas,Comedy|Musical|Romance,2011,11521
+250,"Point Men, The",Action|Drama,2007,16626
+251,For Keeps,Drama|Romance,2015,13396
+252,S.P.L.: Kill Zone (Saat po long),Action|Crime|Drama|Thriller,1996,18888
+253,Soldiers of Fortune,Action|Adventure,2018,11895
+254,It's My Party,Drama,2000,12418
+255,1066,Action|Adventure|War,2005,16652
+256,Kiss of the Damned,Horror|Romance|Thriller,2003,10412
+257,"Challenger Disaster, The",Drama,2003,9519
+258,Freedom,Drama,2003,9771
+259,"Marine Story, A",Drama,2017,18463
+260,"Five Minarets in New York (Act of Vengeance) (Terrorist, The)",Drama,2017,11810
+261,"Laterna, ftoheia kai garyfallo",Comedy|Drama|Romance,2013,19540
+262,Red Cliff Part II (Chi Bi Xia: Jue Zhan Tian Xia),Action|Drama|War,1994,13572
+263,Livid (Livide),Fantasy|Horror,1991,18813
+264,"Farewell, My Queen (Les adieux à la reine)",Drama|Romance,2007,19356
+265,"Romantics, The",Comedy|Drama|Romance,1998,11010
+266,Close,Drama,2016,13638
+267,Samurai III: Duel on Ganryu Island (a.k.a. Bushido) (Miyamoto Musashi kanketsuhen: kettô Ganryûjima),Action|Adventure|Drama,2013,17403
+268,"Niagara, Niagara",Drama,2014,11659
+269,Color of Night,Drama|Thriller,2012,17906
+270,War of the Wildcats (In Old Oklahoma),Western,2004,12397
+271,"Order, The",Action|Adventure|Drama|Thriller,2012,12593
+272,Tokyo Godfathers,Adventure|Animation|Drama,2001,19319
+273,National Lampoon's Cattle Call (Cattle Call),Comedy,1993,19418
+274,Hemingway & Gellhorn,Drama|Romance|War,2013,19702
+275,I Am (Jestem),Drama,1995,19875
+276,Of Unknown Origin,Horror,1999,9929
+277,César,Comedy|Drama|Romance,2015,19911
+278,Collapse,Documentary,2012,14477
+279,Wonderful Days (a.k.a. Sky Blue),Animation|Sci-Fi,2013,19592
+280,Hands Off the Loot (Touchez pas au grisbi),Crime|Drama|Thriller,2008,9486
+281,"Inbetweeners Movie, The",Adventure|Comedy,1997,12060
+282,Down to You,Comedy|Romance,2012,16744
+283,"American Soldier, The (Der amerikanische Soldat)",Drama,1993,17235
+284,De Dana Dan,Comedy,2009,15534
+285,"Prisoner of Zenda, The",Action|Adventure|Romance,1994,16411
+286,Vampire Effect (The Twins Effect) (Chin gei bin),Action|Comedy|Fantasy|Horror,1997,11279
+287,Annie,Children|Comedy|Drama|Musical,1997,18883
+288,Somewhere in the City,Comedy|Drama,2018,15846
+289,Interrogation (Przesluchanie),Crime|Drama|Thriller,1990,16806
+290,Philadelphia Experiment II,Action|Adventure|Sci-Fi,2004,11235
+291,When We Were Kings,Documentary,1998,19100
+292,No One Dies in Lily Dale,Documentary,1992,16425
+293,"Great Ziegfeld, The",Drama|Musical,2018,11158
+294,Jaws: The Revenge,Horror|Thriller,2020,9884
+295,Interview,Drama,1995,19950
+296,Closet Land,Drama|Thriller,1991,11250
+297,Garden Party,Drama|Romance,2009,16966
+298,Siegfried & Roy: The Magic Box,Documentary|IMAX,2011,9716
+299,Wilde,Drama,2004,16556
+300,"Very Brady Sequel, A",Comedy,1990,16853
+301,First Descent,Documentary,2010,11309
+302,Foxes,Drama,1991,12642
+303,Behind Blue Skies (Himlen är oskyldigt blå),Drama,2005,10306
+304,Kapò,Drama|War,2018,17885
+305,Brannigan,Action,2014,18491
+306,Swing Vote,Comedy|Drama,2014,14660
+307,My Science Project,Adventure|Sci-Fi,2003,16448
+308,"Vida precoz y breve de Sabina Rivas, La (Precocious and Brief Life of Sabina Rivas, The)",Adventure|Drama|Romance,2005,18979
+309,Illegal,Crime|Drama|Film-Noir,2010,15998
+310,"Newburgh Sting, The",Documentary,1995,16566
+311,"Little Girl Who Lives Down the Lane, The",Drama|Mystery|Thriller,2005,10257
+312,"The Hire: Star, The",Action|Comedy,1995,12662
+313,"Naked Prey, The",Adventure,2002,18066
+314,"Devil's Tomb, The",Action|Horror|Sci-Fi|Thriller,1991,10943
+315,Westworld,Action|Sci-Fi|Thriller|Western,2001,9597
+316,Dead Man's Burden,Western,1993,9589
+317,1001 Nights,Adventure|Comedy|Fantasy,2006,17022
+318,Peaceful Warrior,Drama,2007,13197
+319,"Marrying Kind, The",Comedy|Drama,2011,10799
+320,March or Die,Adventure|Drama|Romance|War,2018,13820
+321,Back to the Beach,Comedy,1997,12364
+322,Filly Brown,Drama,2013,18146
+323,Black Girl (La noire de...),Drama,2001,17866
+324,Dona Flor and Her Two Husbands (Dona Flor e Seus Dois Maridos),Comedy,2009,15547
+325,"Bothersome Man, The (Brysomme mannen, Den)",Comedy|Drama|Fantasy|Mystery,1996,19214
+326,Infamous,Drama,2006,19256
+327,Until Death,Action|Drama|Thriller,2017,11716
+328,Prodigal Sons,Documentary,2013,9105
+329,Brain Donors,Comedy,1995,18464
+330,Patton Oswalt: My Weakness Is Strong,Comedy,1995,18007
+331,Man of a Thousand Faces,Drama,1997,18935
+332,Billion Dollar Brain,Drama|Thriller,1993,14941
+333,"Trial of the Incredible Hulk, The",Action|Crime|Sci-Fi,2017,9015
+334,Daar,Drama|Horror|Mystery|Romance|Thriller,2012,19676
+335,Cross of Iron,War,1994,18559
+336,Symbol (Shinboru),Comedy|Fantasy,2017,10791
+337,Hypocrites,Drama|Fantasy,2019,17120
+338,Don't Bother to Knock,Drama|Thriller,1995,9350
+339,St. Elmo's Fire,Drama|Romance,2006,18383
+340,Urban Justice,Action,1990,16056
+341,Storm,Drama,2000,9086
+342,The Big Bus,Action|Comedy,2002,9516
+343,Hangtime - Kein leichtes Spiel,Drama,2012,10528
+344,Into the Blue 2: The Reef,Action|Adventure|Thriller,2009,13544
+345,"Little Princess, A",Children|Drama,1998,16426
+346,Sitting Pretty,Comedy,1996,10632
+347,Big Easy Express,Documentary|Musical,2008,17754
+348,"Pool, The (Swimming Pool - Der Tod feiert mit) ",Horror|Thriller,2010,9381
+349,WarGames,Drama|Sci-Fi|Thriller,2012,9579
+350,Dangerous Ground,Drama,2015,9509
+351,Resurrection,Drama|Fantasy,1997,10720
+352,Touch,Drama|Fantasy|Romance,2003,15232
+353,Unholy,Horror|Thriller,2007,14871
+354,Breathing Room,Romance,2018,14732
+355,Street Kings,Crime|Drama|Thriller,1996,18664
+356,Beauty and the Bastard (Tyttö sinä olet tähti),Drama|Musical|Romance,2008,13400
+357,Jolene,Drama,1991,17304
+358,Gloomy Sunday (Ein Lied von Liebe und Tod),Drama|Romance,1997,16257
+359,Can't Hardly Wait,Comedy|Drama|Romance,2009,17896
+360,How About You...,Comedy|Drama,2016,15333
+361,FDR: American Badass!,Action|Comedy,2004,19969
+362,"Poseidon Adventure, The",Action|Adventure|Drama,2015,17229
+363,Shadow Dancer,Crime|Drama|Thriller,2013,11895
+364,Dead Weekend,Comedy|Sci-Fi,1990,14856
+365,December Boys,Drama,2020,15182
+366,"Quiet Man, The",Drama|Romance,2013,17131
+367,My Little Eye,Horror|Mystery|Thriller,2003,11632
+368,Revenge of the Nerds,Comedy,2005,19984
+369,Teenage Mutant Ninja Turtles III,Action|Adventure|Children|Comedy|Fantasy,2003,12645
+370,Elektra,Action|Adventure|Crime|Drama,2015,17752
+371,"Free Soul, A",Drama,2014,9707
+372,Noel,Drama,1999,18312
+373,"Strange Case of Dr. Jekyll and Miss Osbourne, The (Dr. Jekyll and His Women) (Docteur Jekyll et les femmes)",Horror,2010,19970
+374,August Rush,Drama|Musical,1995,19984
+375,"Last Truck: Closing of a GM Plant, The",Documentary,2009,18890
+376,"Secret in Their Eyes, The (El secreto de sus ojos)",Crime|Drama|Mystery|Romance|Thriller,1995,16476
+377,"Strong Man, The",Comedy,2008,17475
+378,Dominion: Prequel to the Exorcist,Horror|Thriller,2015,18433
+379,Forgotten Silver,Comedy|Documentary,2002,19671
+380,"Pan's Labyrinth (Laberinto del fauno, El)",Drama|Fantasy|Thriller,2015,11937
+381,Word Wars,Comedy|Documentary|Drama,2015,14031
+382,Northwest,Action|Crime|Drama,2018,17445
+383,Young Gods (Hymypoika),Drama,1994,11258
+384,"Chinese Ghost Story II, A (Sien nui yau wan II yan gaan do)",Action|Adventure|Fantasy|Horror|Romance,2020,18361
+385,Brother Rat,Comedy,2007,9127
+386,That's What I Am,Children|Comedy,1995,16610
+387,"Witch Who Came from the Sea, The",Horror|Thriller,1996,14266
+388,Taken 2,Action|Crime|Drama|Thriller,1990,9968
+389,Ghost in the Machine (a.k.a. Deadly Terror),Horror|Sci-Fi|Thriller,2006,15040
+390,Twilight of the Ice Nymphs,Fantasy,1992,11767
+391,Tooth Fairy 2,Children|Comedy,2006,13483
+392,Saratoga,Comedy|Drama|Romance,1990,17967
+393,Divorce Iranian Style,Documentary,2007,16474
+394,Everything Relative,Drama,2000,17186
+395,The Fat Spy,Comedy,2005,11276
+396,Over Your Cities Grass Will Grow,Documentary,2015,16912
+397,"Paradine Case, The",Drama,1991,12210
+398,Street Mobster (a.k.a. Modern Yakuza: Outlaw Killer) (Gendai yakuza: hito-kiri yota),Action|Crime,1999,12268
+399,Girls Will Be Girls,Comedy,1994,13445
+400,Heavy Metal 2000,Action|Adventure|Animation|Fantasy|Sci-Fi,2013,14627
+401,Love's Deadly Triangle: The Texas Cadet Murder,Drama,2000,14904
+402,Herman's House,Crime|Documentary,2004,9216
+403,Harry + Max,Drama,2004,14854
+404,Jungle2Jungle (a.k.a. Jungle 2 Jungle),Children|Comedy,2004,17536
+405,Talcum Powder,Comedy,1995,13578
+406,What Richard Did,Drama,2002,10375
+407,Crying Freeman,Action|Crime|Thriller,2017,10191
+408,Clockwatchers,Comedy,2001,18236
+409,Citizen Gangster ,Crime|Drama,2007,17300
+410,Dolly and Her Lover (Räpsy ja Dolly eli Pariisi odottaa),Comedy|Crime|Romance,1991,17812
+411,Dreamer: Inspired by a True Story,Children|Drama,2002,13600
+412,"Calling, The",Thriller,1990,15231
+413,Red Riding: 1980,Crime|Drama|Mystery,2003,18127
+414,"Parent Trap, The",Children|Comedy|Romance,2008,15082
+415,Daddy Day Camp,Children|Comedy,2013,14727
+416,Gnomeo & Juliet,Adventure|Animation|Children|Comedy|Fantasy|Romance,2012,13812
+417,Saturday the 14th,Comedy|Horror,2007,11432
+418,Into the Deep,Documentary|IMAX,2016,11280
+419,Calle 54,Documentary|Musical,2004,18399
+420,A Lesson Before Dying,Drama,2000,9864
+421,Scrooge,Drama|Fantasy|Musical,2018,17596
+422,Storm Rider,Drama,1993,17918
+423,"Caddy, The",Comedy|Musical,2000,9220
+424,"Wankers, The (Les branleuses)",Documentary,1991,19006
+425,Naked,Comedy,2004,19088
+426,Man of the Year,Documentary,1995,17309
+427,Lady Chatterley,Drama|Romance,2011,14444
+428,"Emperor's New Clothes, The",Comedy,1996,17226
+429,Berlin Express,Crime|Drama|Film-Noir|Thriller,2008,14385
+430,When a Stranger Calls,Horror|Thriller,2012,13935
+431,Stealing Beauty,Drama,2005,11815
+432,Night of the Demons 2,Horror,2014,16904
+433,"Bedford Incident, The",Drama|Thriller|War,2010,10718
+434,Letters from a Killer,Crime|Drama|Mystery|Thriller,1991,16948
+435,Krrish,Adventure|Musical|Romance|Sci-Fi,2002,18273
+436,Water,Drama|Romance,2009,19417
+437,The Green,Drama,2008,15163
+438,Shalako,Western,2005,16136
+439,"Adventures of Rocky and Bullwinkle, The",Adventure|Animation|Children|Comedy|Fantasy,2001,11140
+440,"Simpsons Movie, The",Animation|Comedy,1996,9499
+441,Revenge of the Electric Car,Documentary,2003,16707
+442,Garden State,Comedy|Drama|Romance,2001,19875
+443,"Curse, The (a.k.a. The Farm)",Horror|Sci-Fi,2004,19667
+444,Miss Nobody,Comedy|Crime,2015,9601
+445,Dallas 362,Drama,1995,18900
+446,Sunset Strip,Comedy,2012,14113
+447,"Blot, The",Drama,2010,19819
+448,Black Magic (Meeting at Midnight) (Charlie Chan in Meeting at Midnight) (Charlie Chan in Black Magic),Comedy|Crime|Drama,2002,18345
+449,E=mc2,Action|Comedy,2013,15492
+450,City Slacker,Romance,2012,15102
+451,Chicken with Plums (Poulet aux prunes),Drama,2005,15730
+452,"Flamingo Kid, The",Comedy|Drama,2017,18600
+453,"Perez Family, The",Comedy|Romance,2012,16189
+454,"Plumm Summer, A",Adventure,2009,19790
+455,Children of the Corn V: Fields of Terror,Horror|Thriller,2002,11713
+456,Along Came Jones,Comedy|Romance|Western,2014,19781
+457,"Night Strangler, The",Crime|Horror|Mystery,2008,15302
+458,Frenchmen (Le coeur des hommes),Comedy|Romance,2018,10778
+459,"Captain's Paradise, The",Comedy,2010,14569
+460,D.C. Cab,Action|Comedy,1995,18900
+461,Snake in the Eagle's Shadow (Se ying diu sau),Action|Comedy,1999,12526
+462,"Railway Children, The",Children|Drama,1998,15940
+463,"Phantom Carriage, The (Körkarlen)",Drama,2013,10397
+464,"Lucía, Lucía (Hija del caníbal, La)",Comedy|Drama,1995,9731
+465,As Good as It Gets,Comedy|Drama|Romance,2003,12647
+466,Arcade,Horror|Sci-Fi,2006,14513
+467,Hank and Mike,Comedy,1997,12999
+468,Myn Bala: Warriors of the Steppe,Action|Adventure|Drama,1997,16402
+469,Kukuli,Drama,2015,17132
+470,"Breath, The (Nefes: Vatan sagolsun)",Action|Drama|Thriller,2004,18972
+471,Wanda Nevada,Comedy|Mystery|Romance|Western,2008,18743
+472,"Woman in White, The",Mystery|Thriller,2000,12155
+473,"Vitelloni, I (a.k.a. The Young and the Passionate)",Drama,2010,17824
+474,"Symphonie pastorale, La",Drama,2011,15645
+475,Logan's War: Bound by Honor,Action|Drama|Thriller,2012,17152
+476,Scaramouche,Adventure|Romance,2000,12745
+477,A Pistol For Ringo,Action|Drama|Western,2001,16297
+478,Men in White,(no genres listed),2001,14347
+479,Swept Away,Comedy|Romance,1991,17819
+480,Blonde Crazy,Comedy|Crime|Drama|Romance,2005,12098
+481,Arrapaho,Comedy|Western,2019,13078
+482,Silent Wedding (Nunta Muta),Comedy|Drama,2008,15429
+483,8:46,Drama,2005,19198
+484,"Phantom, The",Action|Adventure,2002,14439
+485,"Pool, The (Swimming Pool - Der Tod feiert mit) ",Horror|Thriller,1991,13892
+486,Boy (Shônen),Drama,2020,11793
+487,"Pilgrim, The",Comedy,1992,9017
+488,Invisible Invaders,Horror|Sci-Fi,2004,16073
+489,"Beaches of Agnes, The (Plages d'Agnès, Les)",Documentary,2002,9259
+490,Braddock: Missing in Action III,Action|War,2011,15850
+491,"Clairvoyant, The",Drama|Thriller,2011,10694
+492,Zatoichi Goes to the Fire Festival (Zatôichi abare-himatsuri) (Zatôichi 21),Action|Drama,2017,15118
+493,"Horse in the Gray Flannel Suit, The",Children|Comedy,1994,14623
+494,"Pyramid, The",Horror,1998,18163
+495,Narcissus,Musical,1990,12642
+496,CBGB,Drama,2014,11296
+497,The Stone Council,Adventure|Crime|Drama|Fantasy|Mystery|Thriller,2019,11745
+498,Knife in the Water (Nóz w wodzie),Drama,1991,15749
+499,Crazy Kind of Love,Comedy|Drama|Romance,2004,11323
+500,My Friend Flicka,Children|Western,2003,18212

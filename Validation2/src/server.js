@@ -1,12 +1,14 @@
 const express = require("express");
 const connect = require("./configs/db");
 
-const userController = require("./controllers/user.controller");
+const authorController = require("./controllers/author.controller");
+const bookController = require("./controllers/book.controller");
 
 const app = express();
 app.use(express.json());
 
-app.use("/users", userController);
+app.use("/authors", authorController);
+app.use("/books", bookController);
 
 app.listen(2345, async () => {
     await connect();

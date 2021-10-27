@@ -14,7 +14,7 @@ router.get("/", async (req, res) => {
     }
 });
 
-router.post("/", upload.any("galleryImages"), async (req, res) => {
+router.post("/", upload.any("images"), async (req, res) => {
     const filePaths = req.files.map((file) => file.path);
     try {
         const gallery = await Gallery.create({

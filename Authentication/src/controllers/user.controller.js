@@ -1,43 +1,62 @@
-const express = require("express");
-const router = express.Router();
+const jwt = require("jsonwebtoken");
+require("dotenv").config();
+
 const User = require("../models/user.model");
 
-const { body, validationResult } = require("express-validator");
+const newToken = (user) => {
+    return jwt.sign({ user: user }, process.env.JWT_SECRET_KEY);
+};
 
-router.post(
-    "/",
-    body("first_name").notEmpty().withMessage("First Name cannot be empty"),
-    body("last_name").notEmpty().withMessage("Last Name cannot be empty"),
-    body("email").notEmpty().isEmail().withMessage("Email not valid"),
-    body("pincode")
-        .notEmpty()
-        .isLength({ max: 6, min: 6 })
-        .withMessage("Valid pincode of length 6 required"),
-    body("age")
-        .notEmpty()
-        .custom((value) => {
-            if (value < 1 || value > 100)
-                throw new Error("Age should be between 1 and 100");
-            return true;
-        }),
-    body("gender")
-        .notEmpty()
-        .custom((value) => {
-            if (value === "Male" || value === "Female" || value === "Others")
-                return true;
-            else throw new Error("Gender should be Male, Female or Others");
-        }),
+const register = async (req, res) => {
+    try {
+        //first check if user already exists
+        let user = await User.findOne({ email: req.body.email }).lean().exec();
 
-    async (req, res) => {
-        const errors = validationResult(req);
-        if (!errors.isEmpty()) {
-            return res.status(400).json({ errors: errors.array() });
-        }
+        //if user exists, then throw error
+        if (user)
+            return res
+                .send(400)
+                .json({ status: "error", message: "User already exists" });
 
-        // console.log(body("title")); //to get all the validation functions available
-        const user = await User.create(req.body);
-        res.status(201).send(user);
-    }
-);
+        //otherwise create a user and hash the password (hashing happens in user model)
+        user = await User.create(req.body);
 
-module.exports = router;
+        //create a token
+        const token = newToken(user);
+
+        //return the token and user information to frontend
+        return res.status(201).json({ user, token });
+    } catch (err) {}
+
+    return res.send("register hello");
+};
+
+const login = async (req, res) => {
+    try {
+        //check if user with email exists
+        let user = await User.findOne({ email: req.body.email }).exec(); //dont use lean as we need mongo object, lean converts into json object
+
+        //if not user, then throw error
+        if (!user)
+            return res
+                .send(400)
+                .json({ status: "error", message: "User does not exist" });
+
+        //if user, then match the password
+        const match = user.checkPassword(req.body.password);
+
+        //if not match, then throw an error
+        if (!match)
+            return res
+                .send(400)
+                .json({ status: "error", message: "Wrong Password" });
+
+        //if match, then create the token
+        const token = newToken(user);
+
+        //return the token to the frontend
+        return res.status(201).json({ user, token });
+    } catch (err) {}
+};
+
+module.exports = { register, login };

@@ -3,6 +3,7 @@ const bcrypt = require("bcryptjs");
 
 const userSchema = new mongoose.Schema(
     {
+        name: { type: String, required: true },
         email: { type: String, required: true, unique: true },
         password: { type: String, required: true },
     },
@@ -13,6 +14,7 @@ const userSchema = new mongoose.Schema(
 );
 
 //this is a hook
+//dont use ES6 function definition when using "this"
 userSchema.pre("save", function (next) {
     //save happens when creating and updating user, hence don't hash during update
     if (!this.isModified("password")) return next();

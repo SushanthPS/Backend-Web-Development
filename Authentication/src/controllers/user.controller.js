@@ -1,11 +1,20 @@
 const jwt = require("jsonwebtoken");
 require("dotenv").config();
 
+const express = require("express");
+const router = express.Router();
+
 const User = require("../models/user.model");
 
 const newToken = (user) => {
     return jwt.sign({ user: user }, process.env.JWT_SECRET_KEY);
 };
+
+router.get("", async (req, res) => {
+    const users = await User.find().lean().exec();
+
+    return res.send(users);
+});
 
 const register = async (req, res) => {
     try {
@@ -26,9 +35,9 @@ const register = async (req, res) => {
 
         //return the token and user information to frontend
         return res.status(201).json({ user, token });
-    } catch (err) {}
-
-    return res.send("register hello");
+    } catch (err) {
+        return res.status(400).send(err.message);
+    }
 };
 
 const login = async (req, res) => {
@@ -59,4 +68,4 @@ const login = async (req, res) => {
     } catch (err) {}
 };
 
-module.exports = { register, login };
+module.exports = { register, login, router };

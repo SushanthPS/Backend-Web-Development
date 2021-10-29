@@ -29,7 +29,6 @@ const authenticate = async (req, res, next) => {
         });
 
     //extract the token from bearer token
-
     const token = bearerToken.split(" ")[1];
 
     //decrypt the token and try fetching the user

@@ -1,10 +1,9 @@
 const jwt = require("jsonwebtoken");
 require("dotenv").config();
-
 const express = require("express");
 const router = express.Router();
-
 const User = require("../models/user.model");
+const { validationResult } = require("express-validator");
 
 const newToken = (user) => {
     return jwt.sign({ user: user }, process.env.JWT_SECRET_KEY);
@@ -17,6 +16,10 @@ router.get("", async (req, res) => {
 });
 
 const register = async (req, res) => {
+    const errors = validationResult(req);
+    if (!errors.isEmpty()) {
+        return res.status(400).json({ errors: errors.array() });
+    }
     try {
         //first check if user already exists
         let user = await User.findOne({ email: req.body.email }).lean().exec();
@@ -41,6 +44,10 @@ const register = async (req, res) => {
 };
 
 const login = async (req, res) => {
+    const errors = validationResult(req);
+    if (!errors.isEmpty()) {
+        return res.status(400).json({ errors: errors.array() });
+    }
     try {
         //check if user with email exists
         let user = await User.findOne({ email: req.body.email }).exec(); //dont use lean as we need mongo object, lean converts into json object

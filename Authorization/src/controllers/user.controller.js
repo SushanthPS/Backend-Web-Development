@@ -68,4 +68,4 @@ const login = async (req, res) => {
     } catch (err) {}
 };
 
-module.exports = { register, login, router };
+module.exports = { register, login, router, newToken };
